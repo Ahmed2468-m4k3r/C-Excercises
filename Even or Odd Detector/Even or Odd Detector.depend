@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599721010 source:c:\users\anaso\documents\ahmed_work\c++ projects\even or odd detector\main.cpp
+	<iostream>
+	<conio.h>
+

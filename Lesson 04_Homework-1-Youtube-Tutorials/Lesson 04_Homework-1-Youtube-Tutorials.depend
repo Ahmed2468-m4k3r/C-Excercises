@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1599639675 source:c:\users\anaso\documents\ahmed_work\c++ projects\calculator project\main.cpp
+	<iostream>
+	<conio.h>
+	<unistd.h>
+	<cstdlib>
+	<ctime>
+
+1599718937 source:c:\users\anaso\documents\ahmed_work\c++ projects\lesson 04_homework-1-youtube-tutorials\main.cpp
+	<iostream>
+	<conio.h>
+	<unistd.h>
+	<cstdlib>
+	<ctime>
+
